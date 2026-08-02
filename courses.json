@@ -1,0 +1,27 @@
+[
+  {
+    "course": "Python Basics",
+    "prerequisite": "None",
+    "description": "Learn Python programming fundamentals."
+  },
+  {
+    "course": "SQL",
+    "prerequisite": "Python Basics",
+    "description": "Learn relational databases and SQL queries."
+  },
+  {
+    "course": "Machine Learning",
+    "prerequisite": "Python Basics",
+    "description": "Build predictive models using Python."
+  },
+  {
+    "course": "Deep Learning",
+    "prerequisite": "Machine Learning",
+    "description": "Learn neural networks and AI."
+  },
+  {
+    "course": "Data Structures",
+    "prerequisite": "Python Basics",
+    "description": "Learn algorithms and data structures."
+  }
+]

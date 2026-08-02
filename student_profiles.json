@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rahul",
+    "background": "Mechanical Engineering",
+    "skills": ["Python"],
+    "goal": "AI Engineer"
+  },
+  {
+    "name": "Anjali",
+    "background": "BCA",
+    "skills": ["HTML", "CSS"],
+    "goal": "Data Analyst"
+  },
+  {
+    "name": "Amit",
+    "background": "ECE",
+    "skills": ["Python", "SQL"],
+    "goal": "Machine Learning Engineer"
+  }
+]
